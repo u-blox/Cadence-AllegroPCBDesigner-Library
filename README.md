@@ -26,7 +26,7 @@ This library contains the symbols and footprints for Cadence Allegro.
 The following symbols are available in the schematic library:
 * POS:   
 * CEL:   
-* SHO:   
+* SHO:	 ELLA-W1, ODIN-W26, ODIN-W16, EMMY-W1, LILY-W1, NINA-B1, THEO-P173-01A   
 
 The following footprints are available:
 * POS:   
