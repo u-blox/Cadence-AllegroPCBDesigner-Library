@@ -24,12 +24,12 @@ Contribution provided to us for any purpose without fee.
 
 This library contains the symbols and footprints for Cadence Allegro.
 The following symbols are available in the schematic library:
-* POS:   
+* POS:   CAM-M8, MAX-M8, NEO-M8, LEA-M8, EVA-M8, SAM-M8, ZOE-M8
 * CEL:   
 * SHO:	 ELLA-W1, ODIN-W26, ODIN-W16, EMMY-W1, LILY-W1, NINA-B1, THEO-P173-01A   
 
 The following footprints are available:
-* POS:   
+* POS:   CAM-M8, MAX-M8, NEO-M8, LEA-M8, EVA-M8, SAM-M8, ZOE-M8
 * CEL:   
 * SHO:   ELLA-W1, ODIN-W26, ODIN-W16, EMMY-W1, LILY-W1, NINA-B1, THEO-P173-01A
 
